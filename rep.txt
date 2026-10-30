@@ -1,0 +1,21 @@
+# Формат: ID|Название|Ссылка на PNG|Ссылка на TMX|Ширина (px)|Высота (px)
+
+ironway|IronWay (4p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TCW-Arasida/TCW-012(4p)IronWay_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TCW-Arasida/TCW-012(4p)IronWay.tmx|2000|2000
+bloodonsnow|BloodOnSnow (4p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TCW-Arasida/TCW-013(4p)BloodOnSnow_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TCW-Arasida/TCW-013(4p)BloodOnSnow.tmx|2000|2000
+maggotswarm|MaggotSwarm (10p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TCW-Arasida/TCW-014(10p)MaggotSwarm_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TCW-Arasida/TCW-014(10p)MaggotSwarm.tmx|2000|2000
+
+coffinway_10p|TheCoffinWay (10p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-000(10p)TheCoffinWay_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-000(10p)TheCoffinWay.tmx|8000|8000
+coffin_6p|Coffin (6p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-000(6p)Coffin_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-000(6p)Coffin.tmx|2000|2000
+facetoface_2p|FaceToFace (2p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-001(2p)FaceToFace_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-001(2p)FaceToFace.tmx|2000|2000
+midway_4p|Midway (4p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-002(4p)Midway_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-002(4p)Midway.tmx|2000|2000
+bloodriver_4p|BloodRiver (4p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-003(4p)BloodRiver_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-003(4p)BloodRiver.tmx|2000|2000
+theoverside_6p|TheOverside (6p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-004(6p)TheOverside_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-004(6p)TheOverside.tmx|2000|2000
+thepassage_4p|ThePassage (4p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-005(4p)ThePassage_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-005(4p)ThePassage.tmx|2000|2000
+sleepingsun_4p|SleepingSun (4p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-006(4p)SleepingSun_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-006(4p)SleepingSun.tmx|2000|2000
+themire_4p|TheMire (4p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-007(4p)TheMire_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-007(4p)TheMire.tmx|2000|2000
+echo_6p|Echo (6p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-008(6p)Echo_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-008(6p)Echo.tmx|2000|2000
+knot_4p|Knot (4p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-009(4p)Knot_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-009(4p)Knot.tmx|2000|2000
+root_4p|Root (4p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-010(4p)Root_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-010(4p)Root.tmx|2000|2000
+havoc_6p|Havoc (6p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-011(6p)Havoc_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TheCoffinWay/TCW-011(6p)Havoc.tmx|2000|2000
+
+lumeria_stock|Lumeria Stock|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/Lumeria/lumeria13.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/Lumeria/lumeria13.tmx|1600|2000
