@@ -1,5 +1,5 @@
 # Настройки мира: WORLD|Ширина|Высота|Ссылка_на_текстуру
-WORLD|2000000|2000000|https://psv4.userapi.com/s/v1/d2/4PA1X85_VRd91frUQhH3AcdRuHNMBVDhwYg2TBUVH1En1695-Grm-4e2EzjTyniFUZ1qxhpzZP1HgwmmzfZuhCZjTUJqRnd2mKM0ipObXU36w5EaH1SF_cpZJ8h1bAnBnHZtIZkpSYjB/lumeria13.png
+WORLD|20000|20000|https://psv4.userapi.com/s/v1/d2/4PA1X85_VRd91frUQhH3AcdRuHNMBVDhwYg2TBUVH1En1695-Grm-4e2EzjTyniFUZ1qxhpzZP1HgwmmzfZuhCZjTUJqRnd2mKM0ipObXU36w5EaH1SF_cpZJ8h1bAnBnHZtIZkpSYjB/lumeria13.png
 
 # Формат карт: MAP|ID|Название|Ссылка_PNG|Ссылка_TMX|Ширина|Высота
 MAP|ironway|IronWay (4p)|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TCW-Arasida/TCW-012(4p)IronWay_map.png|https://raw.githubusercontent.com/Teoshebo/maps/refs/heads/main/TCW-Arasida/TCW-012(4p)IronWay.tmx|2000|2000
